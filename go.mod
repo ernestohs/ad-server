@@ -2,7 +2,7 @@ module github.com/ernestohs/ad-server
 
 go 1.13
 
-require(
+require (
 	github.com/fsnotify/fsnotify v1.4.3-0.20170329110642-4da3e2cfbabc // indirect
 	github.com/google/uuid v1.1.1
 	github.com/hashicorp/hcl v0.0.0-20171017181929-23c074d0eceb // indirect
